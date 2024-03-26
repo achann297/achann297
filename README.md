@@ -4,8 +4,7 @@
 
 - <b>VPN (Virtual Private Network) </b>
   - [VPN Installation](https://github.com/achann297/vpn-install)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [VPN Usage and Purpose](https://github.com/joshmadakorcc/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
