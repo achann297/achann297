@@ -5,7 +5,7 @@
 - <b>VPN (Virtual Private Network) </b>
   - [VPN Usage and Purpose](https://github.com/achann297/vpn-usage)
   - [VPN Installation](https://github.com/achann297/vpn-install)
-- <b>Microsoft Azure</b>
+- <b>Remote Desktop Connection</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
