@@ -6,7 +6,7 @@
   - [VPN Usage and Purpose](https://github.com/achann297/vpn-usage)
   - [VPN Installation](https://github.com/achann297/vpn-install)
 - <b>Remote Desktop Protocol</b>
-  - [About RDP](https://github.com/joshmadakorcc/configure-ad)
+  - [About RDP](https://github.com/achann297/AboutRDP)
   - [Using RDP](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
