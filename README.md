@@ -9,7 +9,7 @@
   - [About RDP](https://github.com/achann297/AboutRDP)
   - [Using RDP](https://github.com/achann297/usingRDP)
 - <b>Network File Sharing and Permissions</b>
-  - [About RDP](https://github.com/achann297/AboutRDP)
+  - [File Shares](https://github.com/achann297/AboutRDP)
   - [Using RDP](https://github.com/achann297/usingRDP)
 
 <h2>🤳Connect with me:</h2>
