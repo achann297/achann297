@@ -10,7 +10,7 @@
   - [Using RDP](https://github.com/achann297/usingRDP)
 - <b>Network File Sharing and Permissions</b>
   - [File Shares](https://github.com/achann297/file-shares)
-  - [Using RDP](https://github.com/achann297/usingRDP)
+  - [Setting Permissions & Security Groups in Windows](https://github.com/achann297/usingRDP)
 
 <h2>🤳Connect with me:</h2>
 
