@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex, a <a href="https://linkedin.com/in/alex-chann-8903a6299">Tech Enthusiast</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Technology Projects:</h2>
 
 - <b>VPN (Virtual Private Network) </b>
   - [VPN Usage and Purpose](https://github.com/achann297/vpn-usage)
